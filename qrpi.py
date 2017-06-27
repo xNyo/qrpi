@@ -207,7 +207,7 @@ async def qr(request):
             border=border
         )
         qr.add_data(request.GET["data"])
-        await async_run(qr.make, fit=True)
+        await async_run(qr.make, asyncio.get_event_loop(), True)
 
         # Make image
         img = await async_run(qr.make_image)
