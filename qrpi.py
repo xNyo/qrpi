@@ -89,7 +89,7 @@ class InvalidArgumentError(Exception):
         self.arg_name = arg_name
 
 
-def async_run(func, _ioloop=None, *args, **kwargs):
+def async_run(func, _ioloop=None, *args):
     """
     Run a sychronous function asynchronously.
     Usage:
