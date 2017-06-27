@@ -1,11 +1,12 @@
 # qrpi
-*qrpi* is a little qr code generator web api written in Python with asyncio and
+**qrpi** is a little qr code generator web api written in Python with asyncio and
 [qrcode](https://github.com/lincolnloop/python-qrcode), in a single file
 
 ## Requirements
 - Python 3.6
 
 ## Installation
+Check out [this asciinema](https://asciinema.org/a/fSdRROhNVRhm7U95jQosMM85O) or follow the instructions below
 ```bash
 # get the source code
 $ git clone ...
