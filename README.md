@@ -6,7 +6,7 @@
 - Python 3.6
 
 ## Installation
-```
+```bash
 # get the source code
 $ git clone ...
 $ cd qrpi
