@@ -1,5 +1,5 @@
-# qrpi
-**qrpi** is a little qr code generator web api written in Python with asyncio and
+# ![qr code](https://qrpi.nyodev.xyz/?data=https%3A%2F%2Fgithub.com%2FxNyo%2Fqrpi&box_size=1&margin=4)qrpi
+*qrpi* is a little qr code generator web api written in Python with asyncio and
 [qrcode](https://github.com/lincolnloop/python-qrcode), in a single file
 
 ## Requirements
