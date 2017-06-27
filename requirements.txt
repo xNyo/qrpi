@@ -1,0 +1,4 @@
+aiohttp==2.2.0
+Pillow==4.1.1
+qrcode==5.3
+python-decouple==3.0
